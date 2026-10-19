@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/frictionlessdata/datapackage-py/commit/fd3a9af665cc0e5052437904258b063fb565c6e2",
       "git:hexsha": "fd3a9af665cc0e5052437904258b063fb565c6e2",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.15.4"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.15.4",
+      "repolex:parsedAt": "2026-10-19T12:41:16.447545+00:00"
     },
     {
       "@id": "https://repolex.ai/r/frictionlessdata/datapackage-py/commit/728ea5575bb4f1022277e5a8b6b6a5b1b19f82ac",
