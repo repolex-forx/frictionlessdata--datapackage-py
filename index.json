@@ -1,0 +1,11 @@
+{
+  "org": "frictionlessdata",
+  "repo": "datapackage-py",
+  "versions": [
+    {
+      "commit": "fd3a9af665cc0e5052437904258b063fb565c6e2",
+      "tag": "v1.15.4",
+      "parsed_at": "2026-10-19T12:41:16.448329+00:00"
+    }
+  ]
+}
