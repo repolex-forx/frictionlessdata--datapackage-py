@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/frictionlessdata/datapackage-py/commit/fd3a9af665cc0e5052437904258b063fb565c6e2",
       "git:hexsha": "fd3a9af665cc0e5052437904258b063fb565c6e2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.15.4"
     },
     {
